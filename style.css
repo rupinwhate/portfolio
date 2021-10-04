@@ -1,0 +1,75 @@
+#channel  {
+  width: 280px ;
+  margin-top: 40px;
+}
+body {
+  text-align: center;
+}
+.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  border-radius: 35px;
+  margin-bottom: 5px;
+}
+.link {
+float: left
+}
+.link a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.link a:hover {
+  background-color: #111;
+}
+#v {
+    padding: 70px;
+    text-align: center;
+   background: linear-gradient(#4286f4, #373B44);
+   border-radius: 35px;
+  margin-top: 5px;
+}
+#bio {
+    padding: 20px;
+    font-size: 42;
+    background: linear-gradient(#4286f4, #0CECC5,#0C89EC);
+  border-radius: 35px;
+  margin-top: 5px;
+}
+#rcb {
+  font-style: Italic;
+  font-size: 40px;
+  color: #0CECC5;
+  margin-top: 1px;
+  margin-bottom: 50px;
+}
+button {
+  width: 190px;
+  height: 30px;
+  font-size: 17px;
+  border-radius: 10px;
+  border-style: bold;
+}
+#abc {
+  padding: 20px;
+  font-size: 42;
+  background: linear-gradient(#4286f4, #0CECC5);
+  border-radius: 35px;
+  margin-top: 5px;
+}
+#win {
+  margin-left: 130px;
+  margin-right: 130px;
+}
+#hattrick {
+  padding: 20px;
+  font-size: 42;
+  background: linear-gradient( #0CECC5,#4286f4);
+  border-radius: 30px;
+  margin-top: 5px;
+}
